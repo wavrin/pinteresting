@@ -9,6 +9,8 @@ gem "devise", "~> 3.2.3"
 
 gem 'jquery-rails'
 
+gem 'newrelic_rpm'
+
 gem 'turbolinks'
 
 gem 'jbuilder', '~> 2.0'
