@@ -6,7 +6,7 @@ gem 'uglifier', '>= 1.3.0'
 gem 'coffee-rails', '~> 4.0.0'
 
 gem "devise", "~> 3.2.3"
-
+gem 'paperclip', github: 'thoughtbot/paperclip'
 gem 'jquery-rails'
 
 gem 'newrelic_rpm'
