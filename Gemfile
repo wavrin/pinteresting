@@ -7,6 +7,7 @@ gem 'coffee-rails', '~> 4.0.0'
 
 gem "devise", "~> 3.2.3"
 gem 'paperclip', github: 'thoughtbot/paperclip'
+gem 'aws-sdk', '~> 1.20.0'
 gem 'jquery-rails'
 
 gem 'newrelic_rpm'
