@@ -13,10 +13,15 @@ gem 'jquery-rails'
 gem 'newrelic_rpm'
 
 gem 'turbolinks'
+gem 'jquery-turbolinks'
 
 gem 'jbuilder', '~> 2.0'
 
 gem 'bootstrap-sass'
+
+gem 'masonry-rails', '~> 0.2.0'
+
+
 
 group :development, :test do
      gem 'sqlite3'
